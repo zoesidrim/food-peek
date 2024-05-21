@@ -1,4 +1,4 @@
-<h1>Jogo do Número Secreto</h1>
+<h1>FooD PeeK</h1>
 
 <h2>Sobre</h2>
 <p>Projeto de landing page responsiva</p>
